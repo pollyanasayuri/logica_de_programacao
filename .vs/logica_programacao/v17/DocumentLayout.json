@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1F400EC-B7A3-4DC4-8641-9FE7078A6780}|ex30\\ex30.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F400EC-B7A3-4DC4-8641-9FE7078A6780}|ex30\\ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECFD2CD-794B-4A67-A865-37DAE33FC170}|desafio06\\desafio06.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECFD2CD-794B-4A67-A865-37DAE33FC170}|desafio06\\desafio06.csproj|solutionrelative:desafio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5182550B-C05C-4F1D-9D19-D1B24C7DD097}|desafio05\\desafio05.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5182550B-C05C-4F1D-9D19-D1B24C7DD097}|desafio05\\desafio05.csproj|solutionrelative:desafio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0B4178-4202-4211-A889-D123D54C8B71}|ex26\\ex26.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0B4178-4202-4211-A889-D123D54C8B71}|ex26\\ex26.csproj|solutionrelative:ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24940F23-7438-4C34-B92E-12453926FB29}|ex25\\ex25.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24940F23-7438-4C34-B92E-12453926FB29}|ex25\\ex25.csproj|solutionrelative:ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE96FE1-E446-4099-9BB0-9A33CEB7C3F6}|ex24\\ex24.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE96FE1-E446-4099-9BB0-9A33CEB7C3F6}|ex24\\ex24.csproj|solutionrelative:ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8467F8F6-383C-4BB9-8EDA-AB8EAE9BF228}|desafio03\\desafio03.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8467F8F6-383C-4BB9-8EDA-AB8EAE9BF228}|desafio03\\desafio03.csproj|solutionrelative:desafio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1B486A4-1900-4E2D-BF8D-3602AD8F59B0}|ex22\\ex22.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1B486A4-1900-4E2D-BF8D-3602AD8F59B0}|ex22\\ex22.csproj|solutionrelative:ex22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE96FE1-E446-4099-9BB0-9A33CEB7C3F6}|ex24\\ex24.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE96FE1-E446-4099-9BB0-9A33CEB7C3F6}|ex24\\ex24.csproj|solutionrelative:ex24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0B4178-4202-4211-A889-D123D54C8B71}|ex26\\ex26.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0B4178-4202-4211-A889-D123D54C8B71}|ex26\\ex26.csproj|solutionrelative:ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD34D987-A68D-4F47-8CAD-C8A2646A81B7}|ex27\\ex27.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{CC2C4A9C-9948-46D0-B1E6-C56E65E5F10B}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F400EC-B7A3-4DC4-8641-9FE7078A6780}|ex30\\ex30.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F400EC-B7A3-4DC4-8641-9FE7078A6780}|ex30\\ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53190D4B-5C09-4FEA-B50F-4C43F648FE68}|ex29\\ex29.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53190D4B-5C09-4FEA-B50F-4C43F648FE68}|ex29\\ex29.csproj|solutionrelative:ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACEA05B3-B742-4BAC-9F95-92F97F58B1A8}|ex28\\ex28.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACEA05B3-B742-4BAC-9F95-92F97F58B1A8}|ex28\\ex28.csproj|solutionrelative:ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24940F23-7438-4C34-B92E-12453926FB29}|ex25\\ex25.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24940F23-7438-4C34-B92E-12453926FB29}|ex25\\ex25.csproj|solutionrelative:ex25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D24407AD-9685-4EA1-A6B3-CCA28364983B}|ex23\\ex23.csproj|c:\\users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,54 +150,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio06\\Program.cs",
+              "RelativeDocumentMoniker": "desafio06\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio06\\Program.cs",
+              "RelativeToolTip": "desafio06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:55:11.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex22\\Program.cs",
-              "RelativeDocumentMoniker": "ex22\\Program.cs",
-              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex22\\Program.cs",
-              "RelativeToolTip": "ex22\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio05\\Program.cs",
+              "RelativeDocumentMoniker": "desafio05\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio05\\Program.cs",
+              "RelativeToolTip": "desafio05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:15:47.935Z",
+              "WhenOpened": "2025-01-23T00:31:08.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex20\\Program.cs",
-              "RelativeDocumentMoniker": "ex20\\Program.cs",
-              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex20\\Program.cs",
-              "RelativeToolTip": "ex20\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:06:35.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio03\\Program.cs",
-              "RelativeDocumentMoniker": "desafio03\\Program.cs",
-              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio03\\Program.cs",
-              "RelativeToolTip": "desafio03\\Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAUwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:01:26.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex24\\Program.cs",
               "RelativeDocumentMoniker": "ex24\\Program.cs",
@@ -204,18 +195,81 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex25\\Program.cs",
+              "RelativeDocumentMoniker": "ex25\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex25\\Program.cs",
+              "RelativeToolTip": "ex25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:23:09.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex30\\Program.cs",
+              "RelativeDocumentMoniker": "ex30\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex30\\Program.cs",
+              "RelativeToolTip": "ex30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:43:41.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio03\\Program.cs",
+              "RelativeDocumentMoniker": "desafio03\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio03\\Program.cs",
+              "RelativeToolTip": "desafio03\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:01:26.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex26\\Program.cs",
               "RelativeDocumentMoniker": "ex26\\Program.cs",
               "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex26\\Program.cs",
               "RelativeToolTip": "ex26\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T00:25:53.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex20\\Program.cs",
+              "RelativeDocumentMoniker": "ex20\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex20\\Program.cs",
+              "RelativeToolTip": "ex20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:06:35.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex22\\Program.cs",
+              "RelativeDocumentMoniker": "ex22\\Program.cs",
+              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex22\\Program.cs",
+              "RelativeToolTip": "ex22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:15:47.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex27\\Program.cs",
               "RelativeDocumentMoniker": "ex27\\Program.cs",
@@ -223,12 +277,11 @@
               "RelativeToolTip": "ex27\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:36:02.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:36:02.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio02\\Program.cs",
               "RelativeDocumentMoniker": "desafio02\\Program.cs",
@@ -236,12 +289,11 @@
               "RelativeToolTip": "desafio02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:42:23.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:42:23.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\desafio01\\Program.cs",
               "RelativeDocumentMoniker": "desafio01\\Program.cs",
@@ -249,25 +301,11 @@
               "RelativeToolTip": "desafio01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:28:16.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:28:16.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex30\\Program.cs",
-              "RelativeDocumentMoniker": "ex30\\Program.cs",
-              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex30\\Program.cs",
-              "RelativeToolTip": "ex30\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:43:41.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex29\\Program.cs",
               "RelativeDocumentMoniker": "ex29\\Program.cs",
@@ -279,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex28\\Program.cs",
               "RelativeDocumentMoniker": "ex28\\Program.cs",
@@ -291,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex07\\Program.cs",
               "RelativeDocumentMoniker": "ex07\\Program.cs",
@@ -299,24 +337,11 @@
               "RelativeToolTip": "ex07\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T22:40:52.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T22:40:52.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex25\\Program.cs",
-              "RelativeDocumentMoniker": "ex25\\Program.cs",
-              "ToolTip": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex25\\Program.cs",
-              "RelativeToolTip": "ex25\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:23:09.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex23\\Program.cs",
               "RelativeDocumentMoniker": "ex23\\Program.cs",
@@ -328,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex21\\Program.cs",
               "RelativeDocumentMoniker": "ex21\\Program.cs",
@@ -340,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex19\\Program.cs",
               "RelativeDocumentMoniker": "ex19\\Program.cs",
@@ -352,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex12\\Program.cs",
               "RelativeDocumentMoniker": "ex12\\Program.cs",
@@ -364,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex18\\Program.cs",
               "RelativeDocumentMoniker": "ex18\\Program.cs",
@@ -376,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex17\\Program.cs",
               "RelativeDocumentMoniker": "ex17\\Program.cs",
@@ -388,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex13\\Program.cs",
               "RelativeDocumentMoniker": "ex13\\Program.cs",
@@ -400,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex15\\Program.cs",
               "RelativeDocumentMoniker": "ex15\\Program.cs",
@@ -412,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex16\\Program.cs",
               "RelativeDocumentMoniker": "ex16\\Program.cs",
@@ -424,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex14\\Program.cs",
               "RelativeDocumentMoniker": "ex14\\Program.cs",
@@ -436,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex11\\Program.cs",
               "RelativeDocumentMoniker": "ex11\\Program.cs",
@@ -448,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex10\\Program.cs",
               "RelativeDocumentMoniker": "ex10\\Program.cs",
@@ -460,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex09\\Program.cs",
               "RelativeDocumentMoniker": "ex09\\Program.cs",
@@ -472,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex08\\Program.cs",
               "RelativeDocumentMoniker": "ex08\\Program.cs",
@@ -484,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex06\\Program.cs",
               "RelativeDocumentMoniker": "ex06\\Program.cs",
@@ -496,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
@@ -508,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -520,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -532,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -544,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pollyana.smbrito\\source\\repos\\logica_programacao\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
@@ -553,6 +578,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T21:42:29.889Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
