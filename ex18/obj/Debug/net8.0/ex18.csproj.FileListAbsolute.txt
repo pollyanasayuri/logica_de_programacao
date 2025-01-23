@@ -1,0 +1,15 @@
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\bin\Debug\net8.0\ex18.exe
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\bin\Debug\net8.0\ex18.deps.json
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\bin\Debug\net8.0\ex18.runtimeconfig.json
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\bin\Debug\net8.0\ex18.dll
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\bin\Debug\net8.0\ex18.pdb
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.AssemblyInfoInputs.cache
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.AssemblyInfo.cs
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.csproj.CoreCompileInputs.cache
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.sourcelink.json
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.dll
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\refint\ex18.dll
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.pdb
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ex18.genruntimeconfig.cache
+C:\Users\pollyana.smbrito\source\repos\logica_programacao\ex18\obj\Debug\net8.0\ref\ex18.dll
